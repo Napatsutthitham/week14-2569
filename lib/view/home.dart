@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: Colors.grey,
+        backgroundColor: Colors.purple,
         title: Text("Flutter Development"),
       ),
       drawer: Drawer(
